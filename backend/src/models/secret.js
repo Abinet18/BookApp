@@ -1,0 +1,4 @@
+const SECRET="secret1987654";
+const HASH_ROUNDS=10;
+
+module.exports = {SECRET:SECRET,HASH_ROUNDS:HASH_ROUNDS};
